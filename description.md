@@ -16,4 +16,9 @@
 #### here will be parent directory /home monitored with 200 IOPS and refresh every one minute
 
 
-##          ## 
+##     FINAL TOUGHTS     ##
+This pythos script monitors directories under the parent directory. 
+Not convenient for monitoring specific directory. Only one script can be run pro host. 
+That is why I think is usefull only for small environment. 
+For better way with node exporter and more Folders simultaneously stay tuned for 
+the next video. 
