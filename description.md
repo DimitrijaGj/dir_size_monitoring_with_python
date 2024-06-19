@@ -24,6 +24,6 @@ For better way with node exporter and more Folders simultaneously stay tuned for
 the next video. 
 
 ## Sources that I used
-https://pypi.org/project/prometheus-dirsize-exporter/
-https://github.com/yuvipanda/prometheus-dirsize-exporter
+- https://pypi.org/project/prometheus-dirsize-exporter/
+- https://github.com/yuvipanda/prometheus-dirsize-exporter
 
