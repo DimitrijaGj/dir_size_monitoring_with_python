@@ -17,8 +17,11 @@
 
 
 ##     FINAL TOUGHTS     ##
-This pythos script monitors directories under the parent directory. 
+This python script monitors directories under the parent directory. 
 Not convenient for monitoring specific directory. Only one script can be run pro host. 
 That is why I think is usefull only for small environment. 
 For better way with node exporter and more Folders simultaneously stay tuned for 
 the next video. 
+
+## Sources that I used
+https://pypi.org/project/prometheus-dirsize-exporter/
